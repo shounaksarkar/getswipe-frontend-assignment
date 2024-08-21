@@ -2,22 +2,14 @@
 
 This project was developed as part of an assignment for Swipe(YC 21). It features an advanced Invoice Generator with real-time currency conversion and a dynamic Products Tab integrated into the invoicing process.
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-  - [Invoice Generator with Real-Time Currency Conversion](#invoice-generator-with-real-time-currency-conversion)
-  - [Products Tab with Dynamic Product Information Update](#products-tab-with-dynamic-product-information-update)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Validation and Error Handling](#validation-and-error-handling)
-- [Testing](#testing)
-- [Final Review and Cleanup](#final-review-and-cleanup)
-
 ## Demo
 
-You can watch a demo of the Invoice Generator with real-time currency conversion below:
+You can watch a demo of the Invoice Generator with real-time currency conversion [here](https://www.youtube.com/watch?v=mGWt7YCC9P4).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mGWt7YCC9P4?si=AVKmOZpPGzpwp9_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Or click the image below to watch the demo:
+
+[![Invoice Generator Demo](https://img.youtube.com/vi/mGWt7YCC9P4/0.jpg)](https://www.youtube.com/watch?v=mGWt7YCC9P4)
+
 
 ## Features
 
